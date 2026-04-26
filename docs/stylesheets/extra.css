@@ -1,0 +1,119 @@
+:root {
+  --md-primary-fg-color: #008080;
+  --md-accent-fg-color: #00ced1;
+}
+
+/* Hero Section */
+.hero-section {
+  padding: 4rem 1rem;
+  margin: -1.5rem -1rem 2rem -1rem;
+  background: linear-gradient(135deg, #004d4d 0%, #008080 50%, #00ced1 100%);
+  color: white;
+  text-align: center;
+  border-radius: 0 0 2rem 2rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.hero-section h1 {
+  color: white !important;
+  font-size: 2.5rem !important;
+  font-weight: 800 !important;
+  margin-bottom: 1rem !important;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.hero-section p {
+  font-size: 1.25rem;
+  max-width: 800px;
+  margin: 0 auto 2rem auto;
+  opacity: 0.9;
+}
+
+/* Glassmorphism Cards */
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+}
+
+[data-md-color-scheme="default"] .glass-card {
+  background: rgba(0, 128, 128, 0.05);
+  border: 1px solid rgba(0, 128, 128, 0.1);
+}
+
+.glass-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.glass-card h3 {
+  margin-top: 0 !important;
+  color: var(--md-accent-fg-color);
+}
+
+/* CTA Buttons */
+.cta-button {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background: linear-gradient(90deg, #00ced1, #008080);
+  color: white !important;
+  font-weight: 700;
+  border-radius: 50px;
+  text-decoration: none !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(0, 206, 209, 0.3);
+}
+
+.cta-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 20px rgba(0, 206, 209, 0.4);
+}
+
+/* Timeline/Process styling */
+.process-step {
+  border-left: 3px solid var(--md-accent-fg-color);
+  padding-left: 1.5rem;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.process-step::before {
+  content: "";
+  position: absolute;
+  left: -9px;
+  top: 0;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: var(--md-accent-fg-color);
+  box-shadow: 0 0 10px var(--md-accent-fg-color);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.8s ease forwards;
+}
+
+/* Adjustments for Material layout */
+.md-content__inner {
+  padding-top: 0 !important;
+}

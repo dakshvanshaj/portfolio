@@ -1,0 +1,89 @@
+site_name: Daksh Vanshaj | Data Scientist & MLOps Engineer
+site_description: I help businesses turn data into profit-driven decisions.
+site_author: Daksh Vanshaj
+site_url: https://dakshvanshaj.github.io/portfolio/
+
+theme:
+  name: material
+  logo: assets/logo.png
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+    - search.share
+
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - How I Help: how_i_help.md
+  - Case Studies:
+      - Overview: case_studies/index.md
+      - "StoreCast: Retail Forecasting": case_studies/storecast.md
+  - About: about.md
+  - Contact: contact.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dakshvanshaj
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/daksh-vanshaj/
+    - icon: fontawesome/solid/calendar
+      link: https://cal.com/daksh-vanshaj
+    - icon: fontawesome/brands/whatsapp
+      link: https://wa.me/918219368036
+    - icon: fontawesome/solid/envelope
+      link: mailto:davevanshaj55646@gmail.com
