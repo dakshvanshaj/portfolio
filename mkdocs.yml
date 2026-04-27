@@ -1,7 +1,7 @@
 site_name: Daksh Vanshaj | Data Scientist & MLOps Engineer
 site_description: I help businesses turn data into profit-driven decisions.
 site_author: Daksh Vanshaj
-site_url: https://dakshvanshaj.github.io/portfolio/
+site_url: https://dakshvanshaj.github.io/
 
 theme:
   name: material
