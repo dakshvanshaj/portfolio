@@ -35,7 +35,7 @@ I don't just solve one-off issues. I bring a **battle-tested process** that work
   <h3>StoreCast: How I Saved a Retail Chain $9.1M</h3>
   <p>Reduced forecasting error from 11.85% → 7.76%, cutting stockouts and overstock by 30%. Full breakdown of the data pipeline, model selection, and profit impact.</p>
   <p style="margin-top: 1rem;"><strong>Same process I'll bring to your business.</strong></p>
-  <a href="case_studies/storecast" class="cta-button">Read the Full Case Study →</a>
+  <a href="https://dakshvanshaj.github.io/StoreCast/" class="cta-button">Read the Technical Breakdown →</a>
 </div>
 
 ---

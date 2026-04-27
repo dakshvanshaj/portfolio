@@ -6,7 +6,8 @@
 **Context:** Simulated a consulting engagement for a retail chain bleeding margin from forecast errors
 
 <div style="text-align: center; margin: 2rem 0;">
-  <a href="https://github.com/dakshvanshaj/StoreCast" class="cta-button" style="background: transparent; border: 2px solid var(--md-accent-fg-color); color: var(--md-accent-fg-color) !important;">View Source Code on GitHub →</a>
+  <a href="https://dakshvanshaj.github.io/StoreCast/" class="cta-button" style="background: transparent; border: 2px solid var(--md-accent-fg-color); color: var(--md-accent-fg-color) !important;">View Full Technical Breakdown →</a>
+  <a href="https://github.com/dakshvanshaj/StoreCast" class="cta-button" style="margin-left: 1rem; background: transparent; border: 2px solid var(--md-accent-fg-color); color: var(--md-accent-fg-color) !important;">View Source Code on GitHub →</a>
 </div>
 
 ---

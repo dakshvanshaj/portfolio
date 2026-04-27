@@ -32,7 +32,7 @@ I don't just talk about what I can do—I show you exactly how I've done it. My 
   <p><strong>What This Proves:</strong> This project demonstrates the exact methodology I bring to client engagements—from feasibility research to production deployment using real-world messy data.</p>
   
   <div style="text-align: center; margin-top: 2rem;">
-    <a href="storecast" class="cta-button">Read the Full Case Study →</a>
+    <a href="https://dakshvanshaj.github.io/StoreCast/" class="cta-button">Read the Technical Breakdown →</a>
   </div>
 </div>
 
