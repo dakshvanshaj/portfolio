@@ -29,7 +29,7 @@ I don't just solve one-off issues. I bring a **battle-tested process** that work
 
 ---
 
-## Featured Case Study
+## Proof of Impact
 
 <div class="glass-card" style="display: flex; flex-direction: column; align-items: center; text-align: center; max-width: 800px; margin: 2rem auto;">
   <h3>StoreCast: How I Saved a Retail Chain $9.1M</h3>

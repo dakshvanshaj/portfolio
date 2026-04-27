@@ -4,13 +4,6 @@ The fastest way to see if I can solve your problem is a free 30-minute Discovery
 
 <div class="card-container" style="margin: 2rem 0;">
   <div class="glass-card" style="text-align: center; flex: 1; min-width: 200px;">
-    <a href="https://wa.me/918219368036" style="text-decoration: none; color: inherit;">
-      <p style="font-size: 2rem; margin-bottom: 0.5rem;">💬</p>
-      <h3>WhatsApp</h3>
-      <p>+91 82193 68036</p>
-    </a>
-  </div>
-  <div class="glass-card" style="text-align: center; flex: 1; min-width: 200px;">
     <a href="mailto:davevanshaj55646@gmail.com" style="text-decoration: none; color: inherit;">
       <p style="font-size: 2rem; margin-bottom: 0.5rem;">✉️</p>
       <h3>Email</h3>
@@ -22,6 +15,13 @@ The fastest way to see if I can solve your problem is a free 30-minute Discovery
       <p style="font-size: 2rem; margin-bottom: 0.5rem;">🔗</p>
       <h3>LinkedIn</h3>
       <p>daksh-vanshaj</p>
+    </a>
+  </div>
+  <div class="glass-card" style="text-align: center; flex: 1; min-width: 200px;">
+    <a href="https://wa.me/918219368036" style="text-decoration: none; color: inherit;">
+      <p style="font-size: 2rem; margin-bottom: 0.5rem;">💬</p>
+      <h3>WhatsApp</h3>
+      <p>+91 82193 68036</p>
     </a>
   </div>
 </div>

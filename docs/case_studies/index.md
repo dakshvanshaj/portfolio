@@ -1,6 +1,6 @@
-# Case Studies
+# Proof of Impact
 
-I don't just talk about what I can do—I show you exactly how I've done it. My case studies aren't tech demos or algorithm showcases. They're blueprints for how I turn business problems into measurable profit.
+I don't just talk about what I can do—I show you exactly how I've done it. My work isn't just a collection of tech demos; it's **Proof** of how I turn business problems into measurable profit.
 
 ---
 

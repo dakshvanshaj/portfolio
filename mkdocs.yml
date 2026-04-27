@@ -69,7 +69,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - How I Help: how_i_help.md
-  - Case Studies:
+  - Proof:
       - Overview: case_studies/index.md
       - "StoreCast: Retail Forecasting": case_studies/storecast.md
   - About: about.md
