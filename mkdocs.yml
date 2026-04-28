@@ -6,7 +6,17 @@ site_url: https://dakshvanshaj.github.io/
 theme:
   name: material
   logo: assets/logo.png
+
   palette:
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+        
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -16,14 +26,7 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
 
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: teal
-      accent: cyan
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+
   features:
     - navigation.tabs
     - navigation.sections
@@ -83,7 +86,5 @@ extra:
       link: https://www.linkedin.com/in/daksh-vanshaj/
     - icon: fontawesome/solid/calendar
       link: https://cal.com/daksh-vanshaj
-    - icon: fontawesome/brands/whatsapp
-      link: https://wa.me/918219368036
     - icon: fontawesome/solid/envelope
-      link: mailto:davevanshaj55646@gmail.com
+      link: mailto:consult@dakshvanshaj.com
