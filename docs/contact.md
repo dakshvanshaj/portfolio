@@ -4,10 +4,10 @@ The fastest way to see if I can solve your problem is a free 30-minute Discovery
 
 <div class="card-container" style="margin: 2rem 0;">
   <div class="glass-card" style="text-align: center; flex: 1; min-width: 200px;">
-    <a href="mailto:consult@dakshvanshaj.com" style="text-decoration: none; color: inherit;">
+    <a href="mailto:daksh@dakshvanshaj.com" style="text-decoration: none; color: inherit;">
       <p style="font-size: 2rem; margin-bottom: 0.5rem;">✉️</p>
       <h3>Email</h3>
-      <p>consult@dakshvanshaj.com</p>
+      <p>daksh@dakshvanshaj.com</p>
     </a>
   </div>
   <div class="glass-card" style="text-align: center; flex: 1; min-width: 200px;">
