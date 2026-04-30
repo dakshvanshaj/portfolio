@@ -23,16 +23,84 @@ I don't just talk about what I can do—I show you exactly how I've done it. My 
   <div style="margin-bottom: 2rem;">
     <strong>The Impact:</strong>
     <ul>
-      <li><strong>$9.1M</strong> in projected annual savings (reduced stockouts and overstock waste)</li>
-      <li><strong>$17.3M</strong> in freed working capital (35% less safety stock needed)</li>
-      <li><strong>30%</strong> reduction in operational inefficiency</li>
+      <li><strong>$9.61M</strong> in projected annual profit growth (reduced stockouts and optimized markdowns)</li>
+      <li><strong>$20.53M</strong> in freed working capital (9.5% less safety stock needed)</li>
+      <li><strong>320 hours/month</strong> saved in manual labor via automation</li>
     </ul>
   </div>
 
   <p><strong>What This Proves:</strong> This project demonstrates the exact methodology I bring to client engagements—from feasibility research to production deployment using real-world messy data.</p>
   
   <div style="text-align: center; margin-top: 2rem;">
-    <a href="https://dakshvanshaj.github.io/StoreCast/" class="cta-button">Read the Technical Breakdown →</a>
+    <a href="storecast" class="cta-button">Read the Business Case →</a>
+  </div>
+</div>
+
+---
+
+## COVID-19 Decision Intelligence & Risk Monitoring
+
+<div class="glass-card" style="margin: 2rem 0; padding: 2.5rem;">
+  <h3>Automated National-Level Situational Reporting</h3>
+  <p style="opacity: 0.8; font-style: italic; margin-bottom: 1.5rem;">Public Health & Automation</p>
+
+  <div style="margin-bottom: 1.5rem;">
+    <strong>The Problem:</strong>
+    <p>Fragmented data across 36 states was taking 6+ hours to process manually, creating a 2-day lag before leadership received actionable strategic briefings.</p>
+  </div>
+
+  <div style="margin-bottom: 1.5rem;">
+    <strong>The Solution:</strong>
+    <p>Engineered an end-to-end Medallion pipeline in PostgreSQL, integrated with n8n orchestration and Google Gemini/Gemma LLMs for automated synthesis.</p>
+  </div>
+
+  <div style="margin-bottom: 2rem;">
+    <strong>The Impact:</strong>
+    <ul>
+      <li><strong><30s</strong> ETL runtime, eliminating 6+ hours of manual labor</li>
+      <li><strong>95%</strong> faster decision-making (reports generated in <60 seconds)</li>
+      <li><strong>80%</strong> reduction in administrative monitoring via AI-driven Hot Zone isolation</li>
+    </ul>
+  </div>
+
+  <p><strong>What This Proves:</strong> I don't just build pipelines; I focus on data velocity and synthesizing complex data into executive-ready insights.</p>
+  
+  <div style="text-align: center; margin-top: 2rem;">
+    <a href="covid19" class="cta-button">Read the Business Case →</a>
+  </div>
+</div>
+
+---
+
+## Flights Price Prediction MLOps
+
+<div class="glass-card" style="margin: 2rem 0; padding: 2.5rem;">
+  <h3>Zero-Overhead Multi-Cloud Deployment Pipeline</h3>
+  <p style="opacity: 0.8; font-style: italic; margin-bottom: 1.5rem;">MLOps & CI/CD</p>
+
+  <div style="margin-bottom: 1.5rem;">
+    <strong>The Problem:</strong>
+    <p>Manual deployments, environment discrepancies ("it works on my machine"), and zero traceability for model versions and data.</p>
+  </div>
+
+  <div style="margin-bottom: 1.5rem;">
+    <strong>The Solution:</strong>
+    <p>Architected a multi-cloud CI/CD workflow with GitHub Actions, AWS for centralized MLflow tracking, and serverless deployment on Google Cloud Run.</p>
+  </div>
+
+  <div style="margin-bottom: 2rem;">
+    <strong>The Impact:</strong>
+    <ul>
+      <li><strong>100%</strong> reduction in manual deployment overhead</li>
+      <li><strong>$7.60</strong> RMSE achieved with a highly optimized LightGBM model</li>
+      <li><strong>Complete Reproducibility</strong> via strict DVC data versioning and multi-stage Docker builds</li>
+    </ul>
+  </div>
+
+  <p><strong>What This Proves:</strong> I ensure machine learning models actually reach production safely, securely, and reliably.</p>
+  
+  <div style="text-align: center; margin-top: 2rem;">
+    <a href="flights" class="cta-button">Read the Business Case →</a>
   </div>
 </div>
 

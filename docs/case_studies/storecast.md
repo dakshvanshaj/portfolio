@@ -1,5 +1,5 @@
 # StoreCast: Production-Grade Forecasting System
-## How I'd save a 45-store retail chain $9.1M using real transaction data and my 5-step consulting process
+## How I'd save a 45-store retail chain $9.61M using real transaction data and my 5-step consulting process
 
 **Project Type:** Self-initiated demonstration using real retail data  
 **Goal:** Prove I can build production-ready ML systems that deliver measurable ROI  
@@ -26,7 +26,7 @@ Using real transaction data from a 45-store retail region generating **$2.45 Bil
   </div>
   <div class="glass-card" style="border: 2px solid var(--md-accent-fg-color);">
     <h3>The Dollar Impact</h3>
-    <p>This level of forecasting error would cost the business <strong>$9.1M annually</strong> in operational waste and tie up <strong>$17.3M in working capital</strong> that could be deployed elsewhere.</p>
+    <p>This level of forecasting error would cost the business <strong>$9.61M annually</strong> in operational waste and tie up <strong>$20.53M in working capital</strong> that could be deployed elsewhere.</p>
   </div>
 </div>
 
@@ -47,7 +47,7 @@ This project showcases my repeatable methodology—the exact process I'd bring t
 
 <div class="process-step">
   <h3>3. Feasibility Report (Before Building)</h3>
-  <p>Mapped mathematical error reduction (11.85% → ~8%) to projected business impact ($9.1M savings). Stakeholders align on value before production code starts.</p>
+  <p>Mapped mathematical error reduction (11.85% → ~7.76%) to projected business impact ($9.61M profit growth). Stakeholders align on value before production code starts.</p>
 </div>
 
 <div class="process-step">
@@ -78,11 +78,11 @@ This project showcases my repeatable methodology—the exact process I'd bring t
     </ul>
   </div>
   <div class="glass-card">
-    <h3>MLOps Rigor</h3>
+    <h3>Advanced Analytics Integration</h3>
     <ul>
-      <li><strong>Automated:</strong> Weekly retraining + drift-triggered updates.</li>
-      <li><strong>Monitored:</strong> Real-time dashboards for accuracy, drift, and ROI.</li>
-      <li><strong>Audit Trail:</strong> Full experiment logging via MLflow.</li>
+      <li><strong>Anomaly Detection:</strong> Isolation Forests on dimensionless ratios prevented volume-bias "alert fatigue".</li>
+      <li><strong>Market Basket Analysis:</strong> Used Pearson Correlation on residuals to isolate true causal cross-selling, stripping out holiday spikes.</li>
+      <li><strong>Store Segmentation:</strong> Automated K-Means clustering mapped 45 stores into actionable archetypes for targeted marketing.</li>
     </ul>
   </div>
 </div>
@@ -93,11 +93,11 @@ This project showcases my repeatable methodology—the exact process I'd bring t
 
 <div class="card-container">
   <div class="glass-card" style="text-align: center;">
-    <h2 style="color: var(--md-accent-fg-color);">$9.1M</h2>
+    <h2 style="color: var(--md-accent-fg-color);">$9.61M</h2>
     <p>Annual Profit Increase</p>
   </div>
   <div class="glass-card" style="text-align: center;">
-    <h2 style="color: var(--md-accent-fg-color);">$17.3M</h2>
+    <h2 style="color: var(--md-accent-fg-color);">$20.53M</h2>
     <p>Freed Working Capital</p>
   </div>
   <div class="glass-card" style="text-align: center;">

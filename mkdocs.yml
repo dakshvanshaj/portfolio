@@ -69,12 +69,17 @@ markdown_extensions:
   - toc:
       permalink: true
 
+exclude_docs: |
+  case_studies/source/
+
 nav:
   - Home: index.md
   - How I Help: how_i_help.md
   - Proof:
       - Overview: case_studies/index.md
       - "StoreCast: Retail Forecasting": case_studies/storecast.md
+      - "COVID-19 Decision Intelligence": case_studies/covid19.md
+      - "Flights Price Prediction MLOps": case_studies/flights.md
   - About: about.md
   - Contact: contact.md
 
